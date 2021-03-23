@@ -3,4 +3,5 @@
 | Name:        | André Arvidsson   | 
 | Location:    | Sweden            |
 | Occupation:  | IT                |
-| Twitter:     | @andrearvidsson    |
+| Twitter:     | @andrearvidsson   |
+| LinkedIn:    | @                 |
