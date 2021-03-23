@@ -1,2 +1,0 @@
-# Home
-Being a geek is a great thing. I think we're all geeks. Being a geek means you're passionate about something and that defines your uniqueness. I would rather be passionate about something than be apathetic about everything.
