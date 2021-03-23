@@ -1,6 +1,6 @@
 # About
 
-| Name         | x                 | 
-| Location     | x                 |
-| Occupation   | x                 |
-| Twitter      | x                 |
+| Name         | André Arvidsson   | 
+| Location     | Sweden            |
+| Occupation   | IT                |
+| Twitter      | @andrearvidsson    |
